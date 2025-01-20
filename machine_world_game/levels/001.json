@@ -1,0 +1,267 @@
+{
+  "cols": 60,
+  "rows": 40,
+  "block_size": 32,
+  "start":
+  {
+    "x": 100,
+    "y": 1000
+  },
+  "time": 20,
+  "blocks":
+  [
+    {
+      "name": "tile_top",
+      "x": 0,
+      "y": 38,
+      "w": 100,
+      "h": 1
+    },
+    {
+      "name": "tile_bottom",
+      "x": 0,
+      "y": 39,
+      "w": 100,
+      "h": 1
+    },
+    {
+      "name": "tile_top_left",
+      "x": 18,
+      "y": 35,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "tile_top",
+      "x": 19,
+      "y": 35,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "tile_top_right",
+      "x": 20,
+      "y": 35,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "tile_top_left",
+      "x": 23,
+      "y": 32,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "tile_top",
+      "x": 24,
+      "y": 32,
+      "w": 5,
+      "h": 1
+    },
+    {
+      "name": "spikes",
+      "x": 26,
+      "y": 31,
+      "w": 1,
+      "h": 1,
+      "overflow_y": 11,
+      "collision": "die"
+    },
+    {
+      "name": "tile_top_right",
+      "x": 29,
+      "y": 32,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "tile_top_left",
+      "x": 18,
+      "y": 29,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "tile_top_right",
+      "x": 19,
+      "y": 29,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "tile_top_left",
+      "x": 13,
+      "y": 26,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "tile_top",
+      "x": 14,
+      "y": 26,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "tile_top_right",
+      "x": 15,
+      "y": 26,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "coin1",
+      "x": 14,
+      "y": 25,
+      "w": 1,
+      "h": 1,
+      "collision": "point1"
+    },
+    {
+      "name": "tile_top_left",
+      "x": 25,
+      "y": 26,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "tile_top",
+      "x": 26,
+      "y": 26,
+      "w": 2,
+      "h": 1
+    },
+    {
+      "name": "tile_top_right",
+      "x": 28,
+      "y": 26,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "tile_top_left",
+      "x": 31,
+      "y": 23,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "tile_top",
+      "x": 32,
+      "y": 23,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "tile_top_right",
+      "x": 33,
+      "y": 23,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "coin2",
+      "x": 32,
+      "y": 22,
+      "w": 1,
+      "h": 1,
+      "collision": "point2"
+    },
+    {
+      "name": "tile_top_left",
+      "x": 37,
+      "y": 20,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "tile_top",
+      "x": 38,
+      "y": 20,
+      "w": 2,
+      "h": 1
+    },
+    {
+      "name": "tile_top_right",
+      "x": 40,
+      "y": 20,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "tile_top",
+      "x": 43,
+      "y": 23,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "tile_top_left",
+      "x": 38,
+      "y": 26,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "tile_top",
+      "x": 39,
+      "y": 26,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "tile_top_right",
+      "x": 40,
+      "y": 26,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "coin3",
+      "x": 39,
+      "y": 25,
+      "w": 1,
+      "h": 1,
+      "collision": "point3"
+    },
+    {
+      "name": "tile_top_left",
+      "x": 43,
+      "y": 30,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "tile_top",
+      "x": 44,
+      "y": 30,
+      "w": 2,
+      "h": 1
+    },
+    {
+      "name": "spikes",
+      "x": 45,
+      "y": 29,
+      "w": 1,
+      "h": 1,
+      "overflow_y": 11,
+      "collision": "die"
+    },
+    {
+      "name": "tile_top_right",
+      "x": 46,
+      "y": 30,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "flag",
+      "x": 55,
+      "y": 37,
+      "w": 1,
+      "h": 1,
+      "collision": "win"
+    }
+  ]
+}

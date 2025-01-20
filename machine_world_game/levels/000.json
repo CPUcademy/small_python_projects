@@ -1,0 +1,49 @@
+{
+  "cols": 60,
+  "rows": 40,
+  "block_size": 32,
+  "start":
+  {
+    "x": 100,
+    "y": 1000
+  },
+  "time": 30,
+  "blocks":
+  [
+    {
+      "name": "tile_bottom",
+      "x": 0,
+      "y": 6,
+      "w": 1,
+      "h": 33
+    },
+    {
+      "name": "tile_top",
+      "x": 1,
+      "y": 38,
+      "w": 59,
+      "h": 1
+    },
+    {
+      "name": "tile_bottom",
+      "x": 0,
+      "y": 39,
+      "w": 60,
+      "h": 1
+    },
+    {
+      "name": "tile_bottom",
+      "x": 59,
+      "y": 6,
+      "w": 1,
+      "h": 33
+    },
+    {
+      "name": "tile_bottom",
+      "x": 1,
+      "y": 6,
+      "w": 59,
+      "h": 1
+    }
+  ]
+}

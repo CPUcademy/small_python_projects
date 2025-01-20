@@ -1,0 +1,15 @@
+{
+  "screen":
+  {
+    "fullscreen": true,
+    "width": 1920,
+    "height": 1080
+  },
+  "font":
+  {
+    "path": "fonts/bungee-regular.ttf",
+    "size": 16
+  },
+  "max_fps": 120,
+  "entry_level": "001"
+}

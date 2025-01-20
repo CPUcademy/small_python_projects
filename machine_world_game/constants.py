@@ -1,0 +1,13 @@
+black = 0, 0, 0
+red = 255, 0, 0
+bg_color = 13, 21, 22
+s_jump = "jump"
+s_idle = "idle"
+s_dead = "dead"
+s_fall = "fall"
+s_run = "run"
+jump_speed = 800
+move_speed = 400
+gravity = 700
+fall_gravity = 1400
+still_run = 16
